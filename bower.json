@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap3-harp-dashboard",
+  "authors": [
+    "George Litos <gl@cyberpunk.gr>"
+  ],
+  "description": "dashboard with bootstrap3 and harp",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3"
+  }
+}
